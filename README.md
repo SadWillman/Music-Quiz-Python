@@ -9,7 +9,7 @@ rather than a full-fledged game. Fell free to add your own music to it in the "s
 
 ## How to play the game
 
-* To play the game you can either make it an .exe or just run it in your VTE.
+To play the game you can either make it an .exe or just run it in your VTE.
 
 ## How to make it into an .exe
 In the console of your VTE, do the following to make it into an .exe.
