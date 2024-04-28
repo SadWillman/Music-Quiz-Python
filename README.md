@@ -46,7 +46,3 @@ of the songs made by the artist "Öresus", feel free to remove the songs and add
 If you found an issue or would like to submit an improvement to this project, please submit an issue 
 using the issues tab above. If you would like to submit a PR with a fix,  reference the
 issue you created!
-
- 
-
->>>>>>> fdbead676720b3aa8de533646e73660c566fbd7b
