@@ -3,18 +3,17 @@
 This is a simple music quiz made in Python using the "pygame" library, this serves more as a template
 rather than a full-fledged game. Fell free to add your own music to it in the "songs" folder.
 
-<<<<<<< HEAD
+
 This is a simple music quiz made in Python using the "pygame" library, this serves more as a template
 rather than a full-fledged game. Fell free to add your own music to it in the "songs" folder.
 
 ## How to play the game
 
 * To play the game you can either make it an .exe or just run it in your VTE.
-=======
+
 ## How to play the game
 
 To play the game you can either make it an .exe or just run it in your VTE.
->>>>>>> fdbead676720b3aa8de533646e73660c566fbd7b
 
 ## How to make it into an .exe
 In the console of your VTE, do the following to make it into an .exe.
@@ -47,8 +46,7 @@ of the songs made by the artist "Öresus", feel free to remove the songs and add
 If you found an issue or would like to submit an improvement to this project, please submit an issue 
 using the issues tab above. If you would like to submit a PR with a fix,  reference the
 issue you created!
-<<<<<<< HEAD
+
  
-=======
- 
+
 >>>>>>> fdbead676720b3aa8de533646e73660c566fbd7b
