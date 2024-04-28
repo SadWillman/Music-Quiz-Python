@@ -1,8 +1,4 @@
-
 ## Music Quiz Python
-
-Author: SadWillman
-Made: 23-04-2024
 
 This is a simple music quiz made in Python using the "pygame" library, this serves more as a template
 rather than a full-fledged game. Fell free to add your own music to it in the "songs" folder.
