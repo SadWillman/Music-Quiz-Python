@@ -117,10 +117,6 @@ def save_highscore(highscore):
     Returns:
     None
     '''
-    # with open("highscore.txt", "w") as file:
-    #     file.write(str(highscore))
-    
-    
     with open("highscore.dat", "wb") as file:
         pickle.dump(highscore, file)
 
@@ -133,16 +129,6 @@ def load_highscore():
     Returns:
     int: The highscore loaded from the text file.
     '''
-    # try:
-    #     with open("highscore.txt", "r") as file:
-    #         highscore_str = file.read().strip()
-    #         if highscore_str:
-    #             highscore = int(highscore_str)
-    #         else:
-    #             highscore = 0
-    # except FileNotFoundError:
-    #     highscore = 0
-    # return highscore
     try:
         with open("highscore.dat", "rb") as file:
             highscore = pickle.load(file)
