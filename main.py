@@ -1,3 +1,6 @@
+"Author: SadWillman"
+"Made: 23-04-2024"
+
 import pygame
 import random
 import os
