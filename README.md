@@ -1,22 +1,22 @@
 ## Music Quiz Python
 
 This is a simple music quiz made in Python using the "pygame" library, this serves more as a template
-rather than a full-fledged game. Fell free to add your own music to it in the "songs" folder.
+rather than a full-fledged game. Feel free to add your own music to it in the "songs" folder.
 
 
 This is a simple music quiz made in Python using the "pygame" library, this serves more as a template
-rather than a full-fledged game. Fell free to add your own music to it in the "songs" folder.
+rather than a full-fledged game. Feel free to add your music to it in the "songs" folder.
 
 ## How to play the game
 
-* To play the game you can either make it an .exe or just run it in your VCE.
+* To play the game you can either make it a .exe or just run it in your Text editor.
 
 ## How to play the game
 
 To play the game you can either make it an .exe or just run it in your VCE.
 
-## How to make it into an .exe
-In the console of your VTE, do the following to make it into an .exe.
+## How to make it into a .exe
+In the console of your Text editor, do the following to make it into a .exe.
 
 1. "pip install pyinstaller"
 2. "pyinstaller --onefile --windowed --noconsole main.py"
@@ -35,10 +35,10 @@ In the console of your VTE, do the following.
 
 Q and R only work after you have lost
 
-## How to tweak this project for your own uses
+## How to tweak this project for your uses
 
-Since this not more than an template project, I'd encourage you to clone and rename this project to use
-for your own purposes. This mainly serves as a template for a song guessing game. The game comes with some 
+Since this is not more than a template project, I'd encourage you to clone and rename this project to use
+for your purposes. This mainly serves as a template for a song guessing game. The game comes with some 
 of the songs made by the artist "Öresus", feel free to remove the songs and add your own. 
 
 ## Find a bug?
